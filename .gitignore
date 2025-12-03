@@ -12,6 +12,7 @@ __pycache__/
 # Databases
 *.sqlite
 *.db
+.coverage
 
 # Environment variables
 .env

@@ -14,6 +14,9 @@ uvicorn = {extras = ["standard"], version = "^0.38.0"}
 pydantic-settings = "^2.12.0"
 alembic = "^1.17.2"
 psycopg2-binary = "^2.9.11"
+pytest = "^9.0.1"
+pytest-cov = "^7.0.0"
+httpx = "^0.28.1"
 
 
 [build-system]
