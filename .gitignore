@@ -31,3 +31,4 @@ build/
 logs/
 *.log
 test_db.db
+.idea
