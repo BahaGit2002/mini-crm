@@ -1,0 +1,33 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+# C extensions
+*.so
+
+# Databases
+*.sqlite
+*.db
+
+# Environment variables
+.env
+.flaskenv
+
+# Editor/OS files
+.DS_Store
+.vscode/
+
+# Python packaging
+# Distributions
+dist/
+build/
+*.egg-info/
+
+# Logs and tests
+logs/
+*.log
+test_db.db
